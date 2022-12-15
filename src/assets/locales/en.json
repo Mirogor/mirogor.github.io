@@ -1,0 +1,197 @@
+{
+    "appBar":[
+        {
+            "page": "Home",
+            "route": "/"
+         },
+         {
+             "page": "Archive",
+             "route": "/archive"
+         }
+    ],
+    "mainPage":{
+        "title": "Discover the beauty of Belarusian architecture",
+        "archDescription": "Belarusian architecture is a collective centuries-long work and the pride of the peoples who inhabited the territory of the country at one time or another.",
+        "developers": "Developers",
+        "mainArch": "Architect of the day"
+    },
+    "architectPage":{
+        "galery": "Galery",
+        "placeOfPerformance": "Place of activity",
+        "video": "Video"
+    },
+    "architectSearch":{
+        "famousArchitects": "Famous architects of Belarus",
+        "label": "Search"
+    },
+    "devs":[
+        {
+            "name": "Miron Tolkanitsa",
+            "ghlink": "https://github.com/Mirogor",
+            "picture": "https://avatars.githubusercontent.com/u/90451093?v=4"
+        },
+        {
+            "name": "Arseniy Mitrofanov",
+            "ghlink": "https://github.com/ArseniyMitrofanov",
+            "picture": "https://avatars.githubusercontent.com/u/92049237?v=4"
+        },
+        {
+            "name": "Roman Savitskiy",
+            "ghlink": "https://github.com/RomaSavitskiy",
+            "picture": "https://avatars.githubusercontent.com/u/92258307?v=4"
+        }
+    ],
+    "architects": [
+        {
+            "name": "Michail Baklanov Ivanovich",
+            "date": "13.01.1914 - 23.01.1990",
+            "summary": "Belarusian Soviet architect. Honored Architect of the Belarusian SSR. Realized an art gallery (art museum) of the BSSR.",
+            "description": "Baklanov's mastery was formed under the influence of such prominent masters of architecture as I. Langbard, M. Parusnikov, and M. Barshch. Baklanov shared their creative passions and throughout 1944-1950 was their student and active assistant. Baklanov asserted his creative independence only in 1949 when he received his first major commission to design a building for the State Picture Gallery of the BSSR.",
+            "video": "7CsnFSbpUqE",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d150505.92958396932!2d27.45328575748422!3d53.8845584624547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2sMinsk!5e0!3m2!1sen!2sby!4v1669838941593!5m2!1sen!2sby",
+            "biography": [
+                "He was born on January 30, 1914 in the village of Ivanovka (now Volnovakha district of Donetsk region of Ukraine). After graduating from a factory school, he worked as a draftsman at the Donetsk Iron and Steel Works.",
+                "In 1932, M. Baklanov began studying at the Kharkov Architectural and Construction Technical School.",
+                "In 1936 he entered the Kharkov Civil Engineering Institute (now Kharkov National University of Construction and Architecture). However, he did not complete his studies.",
+                "In December 1940, from his 4th year, he was drafted into the army, and soon he was sent to the 17th Separate Division of barrage balloons near Bialystok. At the beginning of World War II, Private Baklanov fought against the Nazis, but in July 1941 he was taken prisoner. Until 1943 he was held in prisoner of war camps in Poland. In March he escaped and soon after joined the partisan brigade \"People's Avengers\". For his active participation in the battles against the invaders, he was awarded the medal \"Partisan of the Patriotic War\", 1st degree.",
+                "After Belarus was liberated, in August 1944 Mikhail Baklanov was sent to work in the architectural and planning workshop of the Department of Architecture under the BSSR Soviet Socialist Republic (Belgosproekt) in the studio which was headed by Professor M. Barshch. For 36 years, the architect's biography was linked to this institution. He worked his way up from an architect on the staff to head of the architectural design studio. Baklanov's craftsmanship was formed under the influence of such prominent masters of architecture as I. Langbard, M. Parusnikov, M. Barshch. Between 1944 and 1950 M. Baklanov shared their creative passions and became their student and active assistant. Baklanov's creative independence came only in 1949 when he received his first major contract - the development of the building for the State Gallery of the BSSR."
+            ],
+            "avatar": "/Architects/Baklanov/0.webp",
+            "galery": [
+                {
+                    "label": "National Art Museum of the Republic of Belarus",
+                    "imgPath": "/Architects/Baklanov/1.webp"
+                },
+                {
+                    "label": "M. Gorky National Academic Drama Theater",
+                    "imgPath": "/Architects/Baklanov/2.webp"
+                },
+                {
+                    "label": "Envelope that dedicated to the 100th anniversary of M. I. Baklanov. 2014.",
+                    "imgPath": "/Architects/Baklanov/3.webp"
+                }
+            ]
+        },
+        {
+            "name": "Leonid Levin Mendelevich",
+            "date": "25.07.1936 - 01.03.2014",
+            "summary": "Honored Architect of the Republic of Belarus, Laureate of the Lenin Prize and the Lenin Komsomol Prize.",
+            "description": "Honored Architect of the Republic of Belarus, Laureate of the Lenin Prize and Lenin Komsomol Prize, Laureate of the Volgograd Komsomol Prize, twice winner of the State Prize of the Republic of Belarus, laureate of many prestigious competitions and reviews of architectural works, Academician of the International and Belarusian Academies of Architecture.",
+            "video": "P2-yBJvcJUo",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d506623.5460255053!2d27.16759752050111!3d53.85284530358391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1669910510165!5m2!1sru!2sby",
+            "biography": [
+                "From 1954 to 1960 he studied at the Belarusian Polytechnic Institute. Since 1960, he worked at the Minsk project Institute (from an architect to the head of the Workshop for the development of the center of Minsk).",
+                "In the period from 1960 to 1967 he participated in the creation of the park. 50th anniversary of Soviet power. In 1968, he took part in the creation of the exhibition pavilion of the Exhibition of Economic Achievements of the Byelorussian SSR in Minsk.",
+                "1970 - as part of a team of authors, he was awarded the Lenin Prize for the memorial complex of 1968-1969. \"Khatyn\".",
+                "Since 1991, he has been chairman of the Union of Belarusian Jewish Public Associations and Communities. Since 1997, he has been the director of his own creative workshop, Creative Workshop of Architect L. Levin."
+            ],
+            "avatar": "/Architects/Levin/0.webp",
+            "galery": [
+                {
+                    "label": "Memorial complex \"Khatyn\"",
+                    "imgPath": "/Architects/Levin/1.webp"
+                },
+                {
+                    "label": "Monument to Yakub Kolas",
+                    "imgPath": "/Architects/Levin/2.webp"
+                },
+                {
+                    "label": "Metro station \"Ploshchad Lenina\"",
+                    "imgPath": "/Architects/Levin/3.webp"
+                }
+            ]
+        },
+        {
+            "name": "Leon Dubeikovsky Ivanovich",
+            "date": "19.07.1869 - 06.11.1940",
+            "summary": "Belarusian political and public figure, poet, civil engineer, architect.",
+            "description": "Belarusian political and public figure, poet, civil engineer, architect. At the age of 17, against the will of his parents, he entered a craft building school in Warsaw. Two years later he received a diploma of a professional builder and returned to his homeland. He was engaged in construction and restoration work on the territory of Belarus. He came from a small estate gentry, graduated from the Mstislav city school. He was the government architect of the Belarusian People's Republic.",
+            "video": "s-JIbZBMbRU",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d577604.9350175118!2d26.42191418521721!3d55.56251016710068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46c2d80dd4ea40fd%3A0xd05adfa467e84b42!2z0JHRgNCw0YHQu9Cw0LLRgdC60LjQuSDRgNCw0LnQvtC9!5e0!3m2!1sru!2sby!4v1669915399194!5m2!1sru!2sby",
+            "biography": [
+                "From 1910 he worked in Warsaw. He often visited Vilna, where he met the leaders of the Belarusian national movement of the early 20th century: the Lutskevich brothers, Vaclav Ivanovsky, Vladimir Stalygv, priest Frantish Budko. He constantly subscribed to Belarusian literature and the press, corresponded with the editors of the newspaper Nasha Niva and the Catholic weekly Biełarus. Provided financial assistance to the publishing partnership \"The sun will look into our window.\"",
+                "In 1916 he came to Petrograd. On the eve of the October Revolution of 1917 he returned to Belarus. He settled in the Mikhovtsy estate near Radoshkovichi, which belonged to the Belarusian writer and politician Alexander Vlasov. In 1917 he was a member of the Belarusian National Committee (BNK) in Minsk.",
+                "On June 1, 1918, he was approved by the government architect of the Belarusian People's Republic (BNR). He developed patterns for state national awards (sketches are kept in the Belarusian State Archive-Museum of Literature and Art).",
+                "In the autumn of 1919, he was the initiator of the creation of the Polish-Belarusian Society, which included Princess Magdalena Radzivil, Count Yuri Czapsky, Edward Voinilovich and others. He joined the ranks of the Belarusian Social Democratic Party. On June 15, 1919, Anton Lutskevich, Chairman of the Council of Ministers of the BPR, appointed him Consul of the BPR in Warsaw. In October, he initiated the creation of the Belarusian Committee in Warsaw, and acted as chairman of the committee. In 1921, he was a member of the Presidium of the 1st All-Belarusian Conference in Prague.",
+                "From 1922 he lived in Vilna (the city was part of Poland since 1920). He was a member of the Vilna Masonic Lodge. In 1922 he married Julianna Menke, an activist of the Belarusian movement with German roots. He was the president of the Belarusian Catholic parish of St. Nicholas, a member of the Belarusian Institute of Economy and Culture. Participated in the publication of the newspaper \"Belarusian Front\". In 1933, he stood at the origins of the creation of the Belarusian National Socialist Party."
+            ],
+            "avatar": "/Architects/Leon/0.webp",
+            "galery": [
+                {
+                    "label": "Catholic church in Smolensk",
+                    "imgPath": "/Architects/Leon/1.webp"
+                },
+                {
+                    "label": "Church of the Holy Trinity",
+                    "imgPath": "/Architects/Leon/2.webp"
+                },
+                {
+                    "label": "Church of Saints Peter and Paul",
+                    "imgPath": "/Architects/Leon/3.webp"
+                }
+            ]   
+        },
+        {
+            "name": "Stanislav Shabunevsky Danilovich",
+            "date": "02.12.1868 - 07.10.1937",
+            "summary": "Belarusian architect, author of a significant part of the development of Gomel at the beginning of the 20th century. Honorary citizen of Gomel.",
+            "description": "The creative heritage of S. D. Shabunevsky consists of various architectural projects, management of restoration work, inspection of the construction of many objects in Gomel and surrounding settlements. In 1923-1924, S. D. Shabunevsky supervised the restoration work in the Gomel Palace of the Rumyantsevs and Paskevichs, which was damaged by a fire in 1919. In 1925, the architect designed the development of the so-called \"Burned Swamp\", under his supervision the city water supply system was created. S. Shabunevsky supervised the construction of various facilities not only in Gomel, but also in other cities - Klintsy, Dobrush, Zlynka. Now all the author's works of S. Shabunevsky are not exactly known.",
+            "video": "s-JIbZBMbRU",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d577604.9350175118!2d26.42191418521721!3d55.56251016710068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46c2d80dd4ea40fd%3A0xd05adfa467e84b42!2z0JHRgNCw0YHQu9Cw0LLRgdC60LjQuSDRgNCw0LnQvtC9!5e0!3m2!1sru!2sby!4v1669915399194!5m2!1sru!2sby",
+            "biography": [
+                "Father - Appolinary-Danila Ivanovich Shabunevsky, served as a postman, later became assistant postmaster of the county post office in Bobruisk, where he moved his family. Mother came from impoverished nobles. In Bobruisk, S. Shabunevsky studied at a four-year pro-gymnasium, then graduated from the Slutsk gymnasium and entered the St. Petersburg Institute of Civil Engineers, on an architecture course with Academician S. Schreter. Since 1897, S. Shabunevsky served in Gomel as a city architect.",
+                "In Gomel, collegiate assessor SD Shabunevsky was a member of the city government, was elected to the Zemstvo by the Polish curia. S. Shabunevsky was the owner of real estate in different parts of Gomel - a plant of hollow concrete stones (\"Betonit\") on the street. Bykhovskaya; A 3-storey stone house at the corner of Rumyantsevskaya and Aleksandrovskaya streets (built by the architect in 1909, there were shops, a pharmacy and a hairdresser on the 1st floor, Ratner's private men's gymnasium on the 2nd floor, and apartments on the 3rd floor).",
+                "In the first years of Soviet power, S. D. Shabunevsky worked in the Gomel communal department as an engineer. After the anti-Soviet Strekopytov uprising in Gomel, in April 1919, he was prosecuted for \"dealing with the rebels\" and sentenced by a revolutionary tribunal to public censure and deprivation of the right to be elected to the leading Soviet bodies. In September 1919, Shabunevsky was mobilized into the Red Army, served in military field construction, and became the head of the department in 1921. After demobilization, he worked in the Kadievsky mine administration, and in September 1922 he quit and returned to Gomel.",
+                "He worked as an engineer in the Gomel construction organization \"Polesstroy\". In January 1923 he was appointed inspector for the construction of the Gomel Provincial Council of the National Economy. May 1, 1924 was appointed provincial, and in 1927, after the administrative transformation - district engineer. From October 1929, S. Shabunevsky worked as the head of the building control department, and from January 1 to February 21, 1931 - at the Gomel City Council.",
+                "On February 21, 1931, S. D. Shabunevsky was arrested for the first time, but after a while he was released. The second time he was arrested in 1937. By the decision of an extrajudicial body, S. D. Shabunevsky was convicted and imprisoned in a forced labor camp for 10 years (Bear Mountain, Belomorkanal), from where he did not return. S. D. Shabunevsky was rehabilitated on October 20, 1989 by the Prosecutor's Office of the BSSR, in accordance with the Decree of the Presidium of the Supreme Soviet of the USSR of January 16, 1989."
+            ],
+            "avatar": "/Architects/Shabunevsky/0.webp",
+            "galery": [
+                {
+                    "label": "Gomel Men's Gymnasium",
+                    "imgPath": "/Architects/Shabunevsky/1.webp"
+                },
+                {
+                    "label": "Orlovsky Commercial Bank",
+                    "imgPath": "/Architects/Shabunevsky/2.webp"
+                },
+                {
+                    "label": "Nicholas Church",
+                    "imgPath": "/Architects/Shabunevsky/3.webp"
+                }
+            ]   
+        },
+        {
+            "name": "Yuri Grigoriev Panteleimonovich",
+            "date": "29.05.1932 - 21.03.2019",
+            "summary": "Soviet and Russian architect. Honorary citizen of the city of Minsk, chief architect of Minsk (1974-1986). Academician of the Russian Academy of Arts, Academician of the RAASN.",
+            "description": "Yuri Panteleimonovich is the author of such buildings as the metro engineering building on Independence Square, the House of Writers, an indoor skating rink in Gorky Park, research institute complexes along Slavinsky and Bogdanovich streets, a university of culture, a BNTU campus on Bohdan Khmelnitsky street, student dormitories along Oktyabrskaya street. He is the developer of micro-districts Zeleny Lug-6, Chizhovka-5, V. Khoruzhey-2, and also one of the authors of the master plan for the development of Minsk in 1982. He is the author of the architectural and artistic solution of such monuments as: Cyril and Methodius on Slavyanskaya Square, G.K. Zhukov on Manezhnaya Square, S.V. Rakhmaninov on Strastnoy Boulevard, etc.",
+            "video": "KoCasp6SVck",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d301013.62068468437!2d27.31319216987381!3d53.88431382303025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1669926454966!5m2!1sru!2sby\"",
+            "biography": [
+                "He was born on May 29, 1932 in the village of Kulotino, Okulovsky District, Leningrad (now Novgorod) Region.",
+                "In 1956 he graduated from the Moscow Institute of Architecture and until 1986 worked in Belarus, having gone from an architect to the Deputy Chairman of the Gosstroy of the Republic - the chief architect of Minsk (1974-1986).",
+                "In 1986, Yuri Panteleimonovich was invited to Moscow to the post of First Deputy Chairman of the Moscow Committee for Architecture and Urban Planning, where he worked for more than 15 years.",
+                "From 1994 to 2011, he headed the Moscow Research and Design Institute for Typology and Experimental Design.",
+                "From 2002 to 2011, Grigoriev was the first deputy chief architect of the city of Moscow, director of MNIITEP.",
+                "Since 2011, he has been the creative director of MNIITEP. He was buried in Moscow at the Troekurovsky cemetery."
+            ],
+            "avatar": "/Architects/Grigoriev/0.webp",
+            "galery": [
+                {
+                    "label": "Commemorate Cyril and Methodius",
+                    "imgPath": "/Architects/Shabunevsky/1.webp"
+                },
+                {
+                    "label": "Monument to G.K. Zhukov",
+                    "imgPath": "/Architects/Shabunevsky/2.webp"
+                },
+                {
+                    "label": "Monument to Yanka Kupala",
+                    "imgPath": "/Architects/Shabunevsky/3.webp"
+                }
+            ]   
+        }
+        
+    ]
+}
